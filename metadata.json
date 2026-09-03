@@ -1,0 +1,6 @@
+{
+  "name": "Robinhood Chain Meme Coin Intelligence & Telegram Alert Bot",
+  "description": "Real-time meme coin discovery, fast-mover momentum tracking, graduation detection, whale analysis, contract risk scanner, AI analysis, and Telegram alerts on Robinhood Chain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
